@@ -91,7 +91,8 @@ Dans une session **PowerShell sur un DC** :
 Get-ADComputer -Filter {Name -eq "NomDebian"}
 ```
 
- ![sortie](/captures/doc_ad.png)
+ ![sortie](/captures/doc_ad.png)  
+ 
 Si le serveur Debian **apparaît dans l’OU `Computers`**, c’est bon !
 
 ---
