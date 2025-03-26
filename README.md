@@ -50,6 +50,7 @@ Le script PowerShell permet la création :
 
 → [Script complet](./scripts/provisioning.md)  
 → [Fichier CSV](./scripts/Users_CSV.xlsx)
+→ [Arborescence de l'AD](./captures/arborescence-ad.png)
 
 ---
 
