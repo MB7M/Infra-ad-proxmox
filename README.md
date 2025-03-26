@@ -55,7 +55,19 @@ Le script PowerShell permet la création :
 
 ## Structure du dépôt
 
-├── docs │ ├── installation_ad_répartition_fsmo.md │ ├── intégration_client_windows10.md │ └── intégration_debian.md │ ├── scripts │ ├── provisioning.md │ └── Users_CSV.xlsx │ ├── captures  ├── LICENSE └── README.md
+```bash
+Infra-ad-proxmox/
+├── docs/
+│   ├── installation_ad_répartition_fsmo.md
+│   ├── intégration_client_windows10.md
+│   └── intégration_debian.md
+├── scripts/
+│   ├── provisioning.md
+│   └── Users_CSV.xlsx
+├── captures/
+│   └── schema-reseau-ad.png
+├── LICENSE
+└── README.md
 
 ---
 
