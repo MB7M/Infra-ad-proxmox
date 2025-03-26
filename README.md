@@ -1,6 +1,7 @@
 # Infrastructure Active Directory - Proxmox VE
 
-Infrastructure AD complète sur cloud privé avec réplication multi-DC, automatisation du provisioning et intégration multi-OS   (Win10, Debian12).
+Infrastructure AD complète sur cloud privé avec réplication multi-DC, automatisation du provisioning et intégration multi-OS   
+(Win10, Debian12).
 
 ---
 
