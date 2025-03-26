@@ -36,7 +36,7 @@ Infrastructure AD complète sur cloud privé avec réplication multi-DC, automat
 Accessible dans [`/docs`](./docs) :
 
 - [Installation & Répartition des rôles FSMO](./docs/installation_ad_répartition_fsmo.md)
-- [Jointure client Windows au domaine](./docs/intégration_client_windows10.md)
+- [Jointure client Windows au domaine](./docs/Intégration_client_windows10.md)
 - [Intégration Linux via SSSD/Kerberos](./docs/intégration_debian.md)
 
 ---
