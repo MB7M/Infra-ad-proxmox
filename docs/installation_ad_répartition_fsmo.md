@@ -109,4 +109,4 @@ Pour vérifier les rôles :
 netdom query fsmo
 ```
 
-![sortie](./captures/fsmo.png)
+![sortie](/captures/fsmo.png)
