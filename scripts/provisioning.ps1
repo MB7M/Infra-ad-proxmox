@@ -1,4 +1,3 @@
-```powershell
 # Définir le chemin correct du fichier CSV
 $CSVPath = "C:\Partage\billu.csv"
 
